@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="170px" viewBox="0 0 111 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="72.3958333%" y1="0%" x2="72.3958333%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#BCEBFF" stop-opacity="0.621490036" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="交换平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="Artboard" transform="translate(-2826.000000, -837.000000)" fill-rule="nonzero">
+            <g id="Group-1" transform="translate(2826.000000, 837.000000)">
+                <path d="M20.4142136,1 L1,20.4142136 L1,164.585869 L5.412892,169 L79.5857864,169 L109,139.585786 L109,10.4142136 L99.5857864,1 L20.4142136,1 Z" id="Rectangle-2-Copy-31" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M111,148 L89,170 L86,170 L86,169 L111,144 L111,148 Z" id="Combined-Shape-Copy-23" fill="#D8D8D8"></path>
+                <path d="M111,156 L97,170 L93,170 L111,152 L111,156 Z" id="Combined-Shape-Copy-24" fill="#D8D8D8"></path>
+                <path d="M30.2071068,10.5 L10.5,30.2071068 L10.5,154.792934 L15.2057441,159.5 L69.7928932,159.5 L99.5,129.792893 L99.5,20.2071068 L89.7928932,10.5 L30.2071068,10.5 Z" id="Rectangle-2-Copy-4" stroke="#FFFFFF"></path>
+                <polygon id="Rectangle-2-Copy-32" fill="url(#linearGradient-1)" points="24.4545455 0 98.2727273 0 110 11.1764706 110 139.675781 80.1542969 170 6.86199008 170 1 164.411765 1 22.3529412"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

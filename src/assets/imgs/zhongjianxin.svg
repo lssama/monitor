@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1540px" height="882px" viewBox="0 0 1540 882" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>zhongjian</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1563 169 1583 199.009145 1583 359.057919 1613 379.064016 1613 807.925925 1583 827.932022 1583 990.98171 1563 1010.98781 1283 1010.98781 1263 1051 423 1051 403 1010.98781 123 1010.98781 103 990.98171 103 827.932022 73 807.925925 73 369.060967 103 349.05487 103 189.006097 123 169"></polygon>
+        <filter x="-4.2%" y="-7.4%" width="108.4%" height="114.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="30" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.301960784   0 0 0 0 0.725490196   0 0 0 0 0.866666667  0 0 0 0.174762228 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="交换平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页--4-copy" transform="translate(-73.000000, -169.000000)" fill-rule="nonzero">
+            <g id="zhongjian">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#4DB9DD" stroke-width="1" d="M1562.73236,169.5 L123.207151,169.5 L103.5,189.213159 L103.5,349.322417 L73.5,369.328514 L73.5,807.658378 L103.5,827.664475 L103.5,990.774648 L123.207151,1010.48781 L403.309059,1010.48781 L423.309059,1050.5 L1262.69094,1050.5 L1282.69094,1010.48781 L1562.79285,1010.48781 L1582.5,990.774648 L1582.5,827.664475 L1612.5,807.658378 L1612.5,379.331562 L1582.5,359.325465 L1582.5,199.160495 L1562.73236,169.5 Z" stroke-linejoin="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

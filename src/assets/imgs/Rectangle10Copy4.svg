@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="27px" viewBox="0 0 15 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 10 Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="72.3958333%" y1="0%" x2="72.3958333%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.45555933" offset="0%"></stop>
+            <stop stop-color="#BCEBFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="交换平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="Artboard" transform="translate(-3063.000000, -958.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <polygon id="Rectangle-10-Copy-4" points="3063 958 3078 958 3078 976.590105 3070.5 985 3063 976.590105"></polygon>
+        </g>
+    </g>
+</svg>

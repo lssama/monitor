@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3839px" height="91px" viewBox="0 0 3839 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>dingbu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00DBFF" stop-opacity="0.385529891" offset="0%"></stop>
+            <stop stop-color="#00B5FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="交换平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页--4-copy" transform="translate(-1.000000, -60.000000)" fill-rule="nonzero">
+            <g id="dingbu" transform="translate(2.000000, 60.000000)">
+                <path d="M2502,2 L3838,2" id="Line-Copy" stroke="#4D5C89" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M0,1.33333333 L1336,1.33333333" id="Line-Copy-2" stroke="#4D5C89" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M2502,2 L2457,89 L2502,2 Z" id="Line-2-Copy-5" stroke="#4D5C89" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M2690,2 L2645,89 L2690,2 Z" id="Line-2-Copy-6" stroke="#4D5C89" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M1194,2 L1149,89 L1194,2 Z" id="Line-2-Copy-5" stroke="#4D5C89" stroke-width="2" stroke-linecap="square" transform="translate(1171.500000, 45.500000) scale(-1, 1) translate(-1171.500000, -45.500000) "></path>
+                <path d="M1382,2 L1337,89 L1382,2 Z" id="Line-2-Copy-6" stroke="#4D5C89" stroke-width="2" stroke-linecap="square" transform="translate(1359.500000, 45.500000) scale(-1, 1) translate(-1359.500000, -45.500000) "></path>
+                <path d="M1194.5,89.5 L2645,89.5" id="Line-3" stroke="#4D5C89" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Rectangle-3" fill="url(#linearGradient-1)" opacity="0.5" transform="translate(1918.000000, 45.500000) scale(1, -1) translate(-1918.000000, -45.500000) " points="1193.55158 2 2645.20362 2 2688 86.6304935 1148 89"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
